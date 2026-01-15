@@ -144,4 +144,7 @@ Contributions are welcome! Feel free to submit issues and pull requests.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## 🔗 Live Preview
+[https://tinonurcahya.github.io/image-slider-html-css-javascript/]
+
 **Happy Sliding!** 🎬
